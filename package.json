@@ -1,0 +1,19 @@
+{
+  "name": "movie-project",
+  "version": "1.0.0",
+  "description": "movie project with an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jemeye/movie-project.git"
+  },
+  "author": "Jenifer Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jemeye/movie-project/issues"
+  },
+  "homepage": "https://github.com/Jemeye/movie-project#readme"
+}
